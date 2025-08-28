@@ -1,2 +1,3 @@
-# ALX-WORK
-Collection of ALX Professional Backend projects (in-progress). Demonstrates learning in backend development, system design, and Python/C# programming.
+#ALX Pro Backend
+
+ALX Professional Backend program repository (in-progress). Exercises build toward a complete backend system, demonstrating progressive learning in Python, C#, MVC architecture, and database design.
